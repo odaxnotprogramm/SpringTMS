@@ -1,0 +1,6 @@
+rootProject.name = 'SpringTMS'
+include 'Lesson_33'
+include 'Lesson33'
+include 'Alishev'
+include 'Lesson34'
+
